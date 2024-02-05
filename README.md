@@ -9,4 +9,5 @@
 | Vjudge | [Cloud_](https://vjudge.net/user/Cloud_) | 362 | N/A | N/A |
 | Toph | [Cloud_](https://toph.co/u/Cloud_) | 190 | 1617 | 39 |
 | LightOj | [cloud_](https://lightoj.com/user/cloud_) | 108 | N/A | N/A |
-| Total | | 2661 | | 216 |
+| Spoj | [cloud_](https://www.spoj.com/users/cloud_/) | 23 | N/A | N/A |
+| Total | | 2684 | | 216 |
